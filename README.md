@@ -15,12 +15,15 @@ spotify-this:	uses the spotify API to take a song name from the user and returns
 movie-this:	uses the OMDB API to take a movie name and returns the name, cast, release year, IMDB and Rotten Tomatoes rating, country of origin, language and plot
 do-this:	uses the built in readFile() method to access data from a prepopulated .txt file and return its information as a command/search query.
 
+
 Required Node Packages:
 1.	Dotenv
 2.	Request
 3.	Moment
 4.	Fs
 
+
+Screenshots of Code and Output:
  ![image of APP](/images/liri1app.png)
 
 ![image of concertThis](/images/liri2concert1.png)
