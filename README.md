@@ -1,7 +1,9 @@
 ﻿# liri-node-app
 
 •	Deployment Date: July 6, 2019
+
 •	Languages: Node.js, Javascript
+
 •	APIs: OMDB, Spotify, Bandsintown
 
 
