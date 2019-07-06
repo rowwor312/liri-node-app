@@ -22,7 +22,7 @@ var dataQuery = process.argv.slice(3).join(" ");
 
 
 // APP Function
-function commandsInput(userInput, userQuery) {
+function commandsInput(dataInput, dataQuery) {
     // make a decision based on the command
     switch (dataInput) {
         case "concert-this":
@@ -42,7 +42,6 @@ function commandsInput(userInput, userQuery) {
             break;
     }
 }
-
 commandsInput(dataInput, dataQuery);
 
 function concertThis() {
