@@ -1,8 +1,8 @@
 ﻿# liri-node-app
 
-•	Deployment Date 11/07/2018
-•	Built With Node.js, Javascript
-•	APIs OMDB, Spotify, Bandsintown
+•	Deployment Date: July 6, 2019
+•	Languages: Node.js, Javascript
+•	APIs: OMDB, Spotify, Bandsintown
 
 
 Description & Requirements
