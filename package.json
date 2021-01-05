@@ -19,7 +19,7 @@
   "homepage": "https://github.com/rowwor312/liri-node-app#readme",
   "dependencies": {
     "api": "^1.0.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bandsintown": "^1.0.1",
     "dotenv": "^8.0.0",
     "moment": "^2.24.0",
